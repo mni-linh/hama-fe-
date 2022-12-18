@@ -1,0 +1,26 @@
+[
+    {
+        "icon": "bx bx-user",
+        "content": "Thông tin cá nhân",
+        "route": "/profile",
+        "isToken": true
+    },
+    {
+        "icon": "bx bx-user-plus",
+        "content": "Đăng ký",
+        "route": "./signup",
+        "isToken": false
+    },
+    {
+        "icon": "bx bx-log-in-circle",
+        "content": "Đăng nhập",
+        "route": "./signin",
+        "isToken": false
+    },
+    {
+        "icon": "bx bx-log-out-circle bx-rotate-180",
+        "content": "Đăng xuất",
+        "route": "/logout",
+        "isToken": true
+    }
+]

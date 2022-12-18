@@ -1,0 +1,31 @@
+.container{
+    flex: "1";
+    background-color: "white";
+    padding: "10px";
+    justify-content: "center";
+}
+.row {
+    flex: "1";
+    background-color: "white";
+    padding: "10px";
+    justify-content: "center";
+}
+.title{
+    font-size: "22px";
+    font-weight: "600";
+    color: "black";
+    text-align: "center";
+}
+.sub-title{
+    margin-top: "30px";
+    font-size: "16px";
+    text-align: "center";
+    color: "black"
+}
+.btn-dis{
+    justify-content: "center";
+    align-items: "center";
+    height: "50px";
+    background-color: "#ddddd";
+    margin: "10px";
+}

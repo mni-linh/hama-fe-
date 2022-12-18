@@ -1,0 +1,26 @@
+.custom-checkbox {
+  @include flex(center, flex-start);
+
+  cursor: pointer;
+
+  &:hover {
+    color: $main-color;
+  }
+
+  label {
+    margin-bottom: 0;
+    margin-left: 10px;
+    font-size: 18px;
+  }
+
+  input[type="radio"] {
+    border: 1px solid $main-color;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+  }
+
+  input[type="radio"]:checked {
+    background-color: $main-color;
+  }
+}
