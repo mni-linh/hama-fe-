@@ -1,6 +1,4 @@
-# Đồ án cuối kỳ 
-
-- ### Trần Thị Tứ Linh - 45.01.104.127
+### Trần Thị Tứ Linh - 45.01.104.127
 
 ## Set up project
 
