@@ -1,7 +1,5 @@
 # Đồ án cuối kỳ 
 
-## Design by cd Backend
-
 - ### Trần Thị Tứ Linh - 45.01.104.127
 
 ## Set up project
